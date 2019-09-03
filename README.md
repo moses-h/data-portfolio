@@ -1,3 +1,3 @@
 # data-portfolio
-Portfolio of work for my "Telling Stories with Data" class
+Hello, world! Look at me, creating github repositories and such!
 https://moses-h.github.io/data-portfolio/
